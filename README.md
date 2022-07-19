@@ -4,6 +4,8 @@ On top of the Irrigation system we've built an experiment to check the Leaf temp
 
 Thingspeak channel - https://thingspeak.com/channels/1776277/private_show
 
+![image](https://user-images.githubusercontent.com/93939949/179771306-fd737fcc-7a4a-4154-9c82-a1d42fefdd39.png)
+
 ## GOALS :
 1. Reading soil moisture percentage frequently.
 2. Creating an automatic switch that responds to the soil moisture percentage.
@@ -23,9 +25,8 @@ Thingspeak channel - https://thingspeak.com/channels/1776277/private_show
 
 ![image](https://user-images.githubusercontent.com/93939949/179560114-43d2c68d-a230-4f88-bf8b-c65c97cde381.png)
 
-(תמונה של אלקטרוניקה)
+ ![image](https://user-images.githubusercontent.com/93939949/179771184-c27ee754-3197-4882-ae3d-7deae9d8ccb0.png)
 
-(תמונה של המעגל החשמלי)
 
 
 ### How do we set up the electronics? 
